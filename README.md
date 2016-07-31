@@ -1,4 +1,4 @@
-# MOVED https://github.com/mozilla/snippets/tree/master/persona-switcher
+# MOVED https://github.com/mozmar/snippets/tree/master/legacy/persona-switcher
 
 # about:home Persona Switcher Snippet
 
